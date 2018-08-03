@@ -92,6 +92,8 @@ img {
   text-align: justify; }
 #about_me h3 {
   font-family: Arvo; }
+#about_me_list {
+}
 
 .blockquote {
   margin: 100px; }
@@ -100,8 +102,8 @@ img {
   background: url("http://thepatternlibrary.com/#wild-sea");
   /*	background: blue;*/ }
 
-#me_explained {
-  padding: 30px 180px; }
+/*#me_explained {
+  padding: 30px 180px; }*/
 
 .contact ul {
   list-style: none;
