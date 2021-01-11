@@ -3,7 +3,7 @@
 }
 */
 .jumbotron {
-  background: center fixed url(http://www.howdesign.com/wp-content/uploads/vector-geometric-pattern-of-circles-and-triangles-colored-circles-seamless-_MJdqrT5O_L.jpg);
+  background: center fixed url(/images/geo_circles.jpg);
   min-width: 100%;
   height: 700px;
   position: relative;
